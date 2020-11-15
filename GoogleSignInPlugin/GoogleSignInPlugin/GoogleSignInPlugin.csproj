@@ -17,7 +17,7 @@
         <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
 
         <LangVersion>latest</LangVersion>
-        <PackageLicenseUrl>https://github.com/stefkaptein/GoogleSignInPlugin/blob/master/LICENSE</PackageLicenseUrl>
+        <PackageLicense>MIT</PackageLicense>
         <PackageProjectUrl>https://github.com/stefkaptein/GoogleSignInPlugin</PackageProjectUrl>
         <RepositoryUrl>https://github.com/stefkaptein/GoogleSignInPlugin</RepositoryUrl>
         <PackageIconUrl></PackageIconUrl>
